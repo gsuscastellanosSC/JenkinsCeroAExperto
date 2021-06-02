@@ -33,6 +33,9 @@
     12. Tu primer Job
 # Class#13
     13. Juega un poco más con tu primer Job
+# Class#14
+    14. Redirige el output de tu primer Job
+        $(date+%F)
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
