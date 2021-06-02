@@ -46,6 +46,9 @@
     18. Incluye parámetros a tu Job para ejecutar un script
 # Class#19
     19. Recursos de la sección
+# Class#20
+    20. Docker + Jenkins - SSH - I
+        echo "123" | passwd remote_user --stdin
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
