@@ -49,8 +49,11 @@
 # Class#20
     20. Docker + Jenkins - SSH - I
         echo "123" | passwd remote_user --stdin
-# Class#21    
+# Class#21 
     21. Docker + Jenkins - SSH - II      
+# Class#22
+   22. Docker + Jenkins - SSH - III
+        ssh-keygen -f remote-key
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
