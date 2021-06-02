@@ -56,6 +56,8 @@
         ssh-keygen -f remote-key
 # Class#23
     23. Aprende a instalar plugins (SSH Plugin)
+# Class#24
+    24. Integra Jenkins con tu server SSH
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
