@@ -36,6 +36,8 @@
 # Class#14
     14. Redirige el output de tu primer Job
         $(date+%F)
+# Class#15
+    15. Crea un script con tu primer Job
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
