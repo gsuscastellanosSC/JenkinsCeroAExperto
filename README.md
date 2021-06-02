@@ -54,6 +54,8 @@
 # Class#22
    22. Docker + Jenkins - SSH - III
         ssh-keygen -f remote-key
+# Class#23
+    23. Aprende a instalar plugins (SSH Plugin)
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
