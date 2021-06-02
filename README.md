@@ -12,6 +12,11 @@
         sudo systemctl enable docker
         whoami
         sudo usermod -aG docker NameUser
+# Class#5
+    5. Instala Docker Compose
+        sudo chmod +x /usr/local/docker-compose
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
+    how install docker-compose:
+    https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-es
