@@ -29,8 +29,10 @@
     10. Recursos de la sección
 # Class#11
     11. Introducción a Jenkins UI
-# Class#12    
+# Class#12
     12. Tu primer Job
+# Class#13
+    13. Juega un poco más con tu primer Job
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
