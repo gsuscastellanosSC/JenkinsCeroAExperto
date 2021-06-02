@@ -18,6 +18,9 @@
 # Class#6
     6. Nota sobre la instalación de Jenkins
         FROM jenkins/jenkins
+# Class#7
+    7. Instala Jenkins
+        chown 1000 jenkins
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
