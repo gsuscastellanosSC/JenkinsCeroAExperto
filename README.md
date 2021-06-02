@@ -23,8 +23,12 @@
         chown 1000 jenkins
 # Class#8
     8. Cómo trabajar con Docker y Jenkins
+# Class#9
+    9. Bonus
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
     how install docker-compose:
-    https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-es
+        https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-es
+    More courses:
+        https://learndevopsnow.wordpress.com/
