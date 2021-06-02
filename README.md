@@ -21,6 +21,8 @@
 # Class#7
     7. Instala Jenkins
         chown 1000 jenkins
+# Class#8
+    8. Cómo trabajar con Docker y Jenkins
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
