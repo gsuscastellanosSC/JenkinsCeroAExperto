@@ -38,6 +38,8 @@
         $(date+%F)
 # Class#15
     15. Crea un script con tu primer Job
+# Class#16
+    16. Agrega parámetros a tu primer Job
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
