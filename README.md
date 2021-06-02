@@ -44,6 +44,8 @@
     17. Conoce los tipos de parámetros
 # Class#18
     18. Incluye parámetros a tu Job para ejecutar un script
+# Class#19
+    19. Recursos de la sección
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
