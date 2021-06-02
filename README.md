@@ -58,6 +58,8 @@
     23. Aprende a instalar plugins (SSH Plugin)
 # Class#24
     24. Integra Jenkins con tu server SSH
+# Class#25    
+    25. Ejecuta tu primer Job en un host remoto vía SSH
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
