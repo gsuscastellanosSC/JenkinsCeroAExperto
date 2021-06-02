@@ -15,6 +15,9 @@
 # Class#5
     5. Instala Docker Compose
         sudo chmod +x /usr/local/docker-compose
+# Class#6
+    6. Nota sobre la instalación de Jenkins
+        FROM jenkins/jenkins
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
