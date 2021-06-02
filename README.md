@@ -40,6 +40,8 @@
     15. Crea un script con tu primer Job
 # Class#16
     16. Agrega parámetros a tu primer Job
+# Class#17
+    17. Conoce los tipos de parámetros
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
