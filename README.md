@@ -25,6 +25,8 @@
     8. Cómo trabajar con Docker y Jenkins
 # Class#9
     9. Bonus
+# Class#10
+    10. Recursos de la sección
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
