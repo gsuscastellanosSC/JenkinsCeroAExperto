@@ -80,6 +80,8 @@
     34. Crea un script para automatizar el export de la DB
 # Class#35
     35. Integra tu script con AWS (AWS CLI)
+# Class#36
+    36. Aprende a manejar data sensible en Jenkins (Contraseñas, keys)
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
