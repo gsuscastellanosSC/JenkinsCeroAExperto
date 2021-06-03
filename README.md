@@ -72,6 +72,8 @@
     30. Crea una DB sencilla en MySQ
 # Class#31
     31. Crea un Bucket en S3
+# Class#32    
+    32. Crea un usuario IAM en AWS para autenticación
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
