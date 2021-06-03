@@ -76,6 +76,8 @@
     32. Crea un usuario IAM en AWS para autenticación
 # Class#33
     33. Aprende a tomar un dump de una DB y a subirlo a AWS S3 manualmente
+# Class#34
+    34. Crea un script para automatizar el export de la DB
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
