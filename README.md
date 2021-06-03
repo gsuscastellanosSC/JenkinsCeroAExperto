@@ -70,6 +70,8 @@
     29. Instala MySQL Client y AWS CLI
 # Class#30
     30. Crea una DB sencilla en MySQ
+# Class#31
+    31. Crea un Bucket en S3
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
