@@ -66,6 +66,8 @@
     27. Introducción: MySQL + AWS + Shell Script + Jenkins
 # Class#28
     28. Instala MySQL en Docker
+# Class#29
+    29. Instala MySQL Client y AWS CLI
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
