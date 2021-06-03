@@ -74,6 +74,8 @@
     31. Crea un Bucket en S3
 # Class#32    
     32. Crea un usuario IAM en AWS para autenticación
+# Class#33
+    33. Aprende a tomar un dump de una DB y a subirlo a AWS S3 manualmente
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
