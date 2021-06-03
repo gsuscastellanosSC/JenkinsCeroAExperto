@@ -60,6 +60,12 @@
     24. Integra Jenkins con tu server SSH
 # Class#25    
     25. Ejecuta tu primer Job en un host remoto vía SSH
+# Class#26
+    26. Recursos de la sección
+# Class#27
+    27. Introducción: MySQL + AWS + Shell Script + Jenkins
+# Class#28
+    28. Instala MySQL en Docker
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
