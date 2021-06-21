@@ -82,6 +82,8 @@
     35. Integra tu script con AWS (AWS CLI)
 # Class#36
     36. Aprende a manejar data sensible en Jenkins (Contraseñas, keys)
+# Class#37
+    37. Crea un Jenkins Job para subir tu DB a AWS (Parámetros + Shell Scripting)
 # Links
     jenkins-resources:
         https://github.com/ricardoandre97/jenkins-resources
